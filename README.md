@@ -1,6 +1,6 @@
 # Text Animations in HTML, CSS & JS
 
-***`This repository has been compiled from various resources. It contains code for various text transition effects.`***
+***`This repository has been compiled from various resources and contains code for various text and background animation effects.`***
 
 <br>**Text**
 <br>[`Fade In`](/FadeIn) - `The text fades in on the page after a specified time.`
