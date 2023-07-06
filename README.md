@@ -9,8 +9,8 @@
 <br>[`Wipe In`](/WipeIn) - `Text is wiped in on the webpage through colors.`
 
 **Background**
-<br>[`Bubbles  `](/Bg/Bubbles) - `This creates upward floating bubbles in the background of your webpage.`
-<br>[`Chameleon`](/Bg/Chameleon) - `This is a combination of vectors and color-gradient transitions for the background of your webpage.`
-<br>[`Gradient `](/Bg/Gradient) - `This is a smooth color-gradient transition for the background of your webpage.`
-<br>[`Grid     `](/Bg/Grid) - `This creates a moving grid in the background of your webpage.`
-<br>[`Ripple   `](/Bg/Ripple) - `This creates to and fro moving ripples in the background of your webpage.`
+<br>[`Bubbles  `](/BG/Bubbles) - `This creates upward floating bubbles in the background of your webpage.`
+<br>[`Chameleon`](/BG/Chameleon) - `This is a combination of vectors and color-gradient transitions for the background of your webpage.`
+<br>[`Gradient `](/BG/Gradient) - `This is a smooth color-gradient transition for the background of your webpage.`
+<br>[`Grid     `](/BG/Grid) - `This creates a moving grid in the background of your webpage.`
+<br>[`Ripple   `](/BG/Ripple) - `This creates to and fro moving ripples in the background of your webpage.`
