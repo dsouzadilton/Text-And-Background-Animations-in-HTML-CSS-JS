@@ -1,4 +1,4 @@
-Text Animations in HTML, CSS & JS
+#Text Animations in HTML, CSS & JS
 
 ***`This repository has been compiled from various resources and contains code for various text and background animation effects.`***
 
